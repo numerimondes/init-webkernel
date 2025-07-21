@@ -1,5 +1,5 @@
 {
-  "name": "numerimondes/init-webkernel",
+  "name": "webkernel/webkernel",
   "description": "Setup A Webkernel Environment with free licence",
   "type": "project",
   "require": {
