@@ -1,0 +1,15 @@
+{
+  "name": "numerimondes/init-webkernel",
+  "description": "Setup A Webkernel Environment with free licence",
+  "type": "project",
+  "require": {
+    "guzzlehttp/guzzle": "^7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "InitWebkernel\\": "src/"
+    }
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true
+}
